@@ -1,5 +1,5 @@
 # Working Repo für WMC im 6. Semester
 
-Name: Vorname Zuname  
-Klasse: 6CAIF
+Name: Muhamed Keita
+Klasse: 6AAIF
 
